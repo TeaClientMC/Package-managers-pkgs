@@ -7,4 +7,4 @@ Package manager Packages.
 | Package Manager | Support
 | ------------- | ------------- |
 | Nix/NixOS | 🚧 LinuxOnly | 
-| Brew, | ✅ | 
+| Brew | ✅ | 
